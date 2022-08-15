@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register For DevOps Class29</h1>
+    <h1>DevOps Class29 Resgistration Form:</h1>
     <p>Please fill your personal information in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Happy Learning </h1>
+   <h1>Happy Learning ,100% Job Guarantee</h1>
 
   
 </form>
